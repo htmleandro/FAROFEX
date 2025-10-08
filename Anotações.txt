@@ -1,0 +1,22 @@
+dominio 
+https://htmleandro.github.io/FAROFEX/
+
+
+
+arquitetura 
+
+meu-site/
+│
+├── index.html              → Página inicial
+├── sobre.html              → Página "Sobre"
+├── contato.html            → Página "Contato"
+├── produtos.html           → Página "Produtos"
+│
+├── css/
+│   └── estilo.css          → Arquivo de estilos
+│
+├── js/
+│   └── script.js           → Arquivo de scripts
+│
+├── img/
+│   └── logo.png            → Imagens do site
